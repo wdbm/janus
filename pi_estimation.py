@@ -44,7 +44,7 @@ def piMCParallel(iterations = 100):
     # Submit the jobs to the parallel job processor.
     parallelJobProcessor1.submit(jobSubmission = jobGroup1)
     resultsList = parallelJobProcessor1.getResults()
-    #statusReport = parallelJobProcessor1.statusReport(type = "dictionary")
+    statusReport = parallelJobProcessor1.statusReport(type = "dictionary")
     #print("status report:")
     #print(statusReport)
     print("result produced by each CPU core: {resultsList}".format(resultsList = resultsList))

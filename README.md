@@ -4,7 +4,7 @@ parallel job processor using multiprocessing
 
 # quick start
 
-The example script ```pi_estimation.py``` is an illustration of the usage of janus.
+The example script ```pi_estimation.py``` is an illustration of the usage of janus. Its use is shown in the video [here](https://www.youtube.com/watch?v=hz4z9wJg43Y).
 
 # introduction
 
