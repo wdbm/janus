@@ -12,17 +12,7 @@ Janus consists of the concepts of a job, a job group, a parallel job processor a
 
 Below is a non-exhaustive illustration of janus.
 
-![](images/operation_1.png)
-
-![](images/operation_2.png)
-
-![](images/operation_3.png)
-
-![](images/operation_4.png)
-
-![](images/operation_5.png)
-
-![](images/operation_6.png)
+![](images/operations_1.gif)
 
 # future
 
